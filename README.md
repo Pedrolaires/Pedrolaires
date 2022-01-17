@@ -1,16 +1,20 @@
-### Hi there 👋
+### Oi 💖  🍵
+<div>
+  <a href = "https://github.com/Pedrolaires">
+  <img align="center" height ="180em" src="https://github-readme-stats.vercel.app/api?username=Pedrolaires&hide=contribs,stars,prs&show_icons=true&theme=dracula"/>
+  <img align="center" height ="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedrolaires&langs_count=16&theme=dracula"/>
+</div>
+<div style=""><br>
+  <img align="center" alt="Html5-plain" height ="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img align="center" alt="Css3-plain" height ="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
+  <img align="center" alt="Js-plain" height ="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+  <img align="center" alt="Spring-plain" height ="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+  <img align="center" alt="Java-plain" height ="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img align="center" alt="Node-plain" height ="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img align="right" alt="error" src="https://thumbs.gfycat.com/InferiorAnxiousAustralianfreshwatercrocodile-max-14mb.gif" height="150" width="200" />
+</div>
+  
+<div>
+  ![Snake animation](https://github.com/Pedrolaires/Pedrolaires/blob/output/github-contribution-grid-snake.svg)
 
-<!--
-**Pedrolaires/Pedrolaires** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
