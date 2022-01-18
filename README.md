@@ -1,4 +1,4 @@
-### Oi 💖  🍵
+### Olá 🍵
 <div>
   <a href = "https://github.com/Pedrolaires">
   <img align="center" height ="180em" src="https://github-readme-stats.vercel.app/api?username=Pedrolaires&hide=contribs,stars,prs&show_icons=true&theme=dracula"/>
