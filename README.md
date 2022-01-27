@@ -13,6 +13,8 @@
   <img align="center" alt="Java-plain" height ="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" alt="Node-plain" height ="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img align="right" alt="error" src="https://thumbs.gfycat.com/InferiorAnxiousAustralianfreshwatercrocodile-max-14mb.gif" height="180em" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+
 </div>
 <!--  ![Snake animation](https://github.com/Pedrolaires/Pedrolaires/blob/output/github-contribution-grid-snake.svg) -->
 
