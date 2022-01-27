@@ -4,7 +4,7 @@
     <img align="center" height ="170em" src="https://github-readme-stats.vercel.app/api?username=Pedrolaires&hide=contribs,stars,prs&show_icons=true&theme=dracula"/>
     <br>
     <img align="center" height ="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedrolaires&langs_count=16&theme=dracula"/>
-    <img align="right" alt="error" height="140em" src="https://thumbs.gfycat.com/InferiorAnxiousAustralianfreshwatercrocodile-max-14mb.gif"/>
+    <img align="center" alt="error" height="140em" src="https://thumbs.gfycat.com/InferiorAnxiousAustralianfreshwatercrocodile-max-14mb.gif"/>
   </a>
 </div>
 <div style=""><br>
